@@ -76,14 +76,8 @@ html {
     right: 0;
   }
   
-  .idea-3 strong {
-    border-radius: 3px;
-    display: inline-block;
-    padding: 3px 5px;
-  }
-  
   .five .idea-5 {
-    font-size: 4rem;
+    font-size: 2.5rem;
   }
   
   .idea-5 span, .idea-6 span, .wish-hbd span {
